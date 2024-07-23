@@ -12,3 +12,5 @@ The Text Analyst App is a versatile and user-friendly application developed usin
 
 # Screenshots
 
+### Light Mode
+![Light Mode](screenshots/previewText.png)
