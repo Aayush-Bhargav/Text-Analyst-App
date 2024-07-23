@@ -13,4 +13,14 @@ The Text Analyst App is a versatile and user-friendly application developed usin
 # Screenshots
 
 ### Light Mode
-![Light Mode](screenshots/previewText.png)
+![Preview Text](screenshots/previewText.png)
+
+![Convert To UpperCase](screenshots/convertToUppercase.png)
+
+![Convert To LowerCase](screenshots/convertToLowercase.png)
+
+![Capitalize The Text](screenshots/capitalizeText.png)
+
+![Enable Dark Mode](screenshots/enableDarkMode.png)
+
+![About Page](screenshots/aboutPage.png)
