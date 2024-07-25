@@ -12,11 +12,11 @@ The Text Analyst App is a versatile and user-friendly application developed usin
 
 ## Install
 
-\```
+```
 git clone https://github.com/your-repo/your-project.git
 cd your-project
 npm install
-\```
+```
 
 ## Screenshots
 
