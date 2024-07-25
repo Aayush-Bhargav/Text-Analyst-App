@@ -13,9 +13,13 @@ The Text Analyst App is a versatile and user-friendly application developed usin
 ## Install
 
 ```
-git clone https://github.com/your-repo/your-project.git
-cd your-project
+git clone https://github.com/Aayush-Bhargav/Text-Analyst-App.git
+cd Text-Analyst-App
 npm install
+```
+## Launch
+```
+npm start 
 ```
 
 ## Screenshots
